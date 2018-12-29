@@ -197,7 +197,7 @@ Partial Class Form1
         Me.dgv1.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
         DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle1.BackColor = System.Drawing.Color.Green
-        DataGridViewCellStyle1.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle1.ForeColor = System.Drawing.Color.White
         DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -218,7 +218,7 @@ Partial Class Form1
         Me.Round.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells
         DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle2.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle2.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle2.ForeColor = System.Drawing.Color.Red
         Me.Round.DefaultCellStyle = DataGridViewCellStyle2
         Me.Round.FillWeight = 300.0!
@@ -235,7 +235,7 @@ Partial Class Form1
         Me.Player1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
         DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle3.BackColor = System.Drawing.Color.MediumSpringGreen
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Player1.DefaultCellStyle = DataGridViewCellStyle3
         Me.Player1.HeaderText = "Player1"
         Me.Player1.Name = "Player1"
@@ -247,7 +247,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle4.BackColor = System.Drawing.Color.MediumSpringGreen
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BidP1.DefaultCellStyle = DataGridViewCellStyle4
         Me.BidP1.HeaderText = ""
         Me.BidP1.Name = "BidP1"
@@ -259,7 +259,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle5.BackColor = System.Drawing.Color.MediumSpringGreen
-        DataGridViewCellStyle5.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle5.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.EndP1.DefaultCellStyle = DataGridViewCellStyle5
         Me.EndP1.HeaderText = ""
         Me.EndP1.Name = "EndP1"
@@ -272,7 +272,7 @@ Partial Class Form1
         Me.Player2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
         DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle6.BackColor = System.Drawing.Color.Gold
-        DataGridViewCellStyle6.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle6.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Player2.DefaultCellStyle = DataGridViewCellStyle6
         Me.Player2.HeaderText = "Player2"
         Me.Player2.Name = "Player2"
@@ -284,7 +284,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle7.BackColor = System.Drawing.Color.Gold
-        DataGridViewCellStyle7.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle7.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BidP2.DefaultCellStyle = DataGridViewCellStyle7
         Me.BidP2.HeaderText = ""
         Me.BidP2.Name = "BidP2"
@@ -296,7 +296,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle8.BackColor = System.Drawing.Color.Gold
-        DataGridViewCellStyle8.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle8.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.EndP2.DefaultCellStyle = DataGridViewCellStyle8
         Me.EndP2.HeaderText = ""
         Me.EndP2.Name = "EndP2"
@@ -309,7 +309,7 @@ Partial Class Form1
         Me.Player3.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
         DataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle9.BackColor = System.Drawing.Color.Crimson
-        DataGridViewCellStyle9.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle9.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Player3.DefaultCellStyle = DataGridViewCellStyle9
         Me.Player3.HeaderText = "Player3"
         Me.Player3.Name = "Player3"
@@ -321,7 +321,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle10.BackColor = System.Drawing.Color.Crimson
-        DataGridViewCellStyle10.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle10.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BidP3.DefaultCellStyle = DataGridViewCellStyle10
         Me.BidP3.HeaderText = ""
         Me.BidP3.Name = "BidP3"
@@ -333,7 +333,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle11.BackColor = System.Drawing.Color.Crimson
-        DataGridViewCellStyle11.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle11.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.EndP3.DefaultCellStyle = DataGridViewCellStyle11
         Me.EndP3.HeaderText = ""
         Me.EndP3.Name = "EndP3"
@@ -346,7 +346,7 @@ Partial Class Form1
         Me.Player4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
         DataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle12.BackColor = System.Drawing.Color.DodgerBlue
-        DataGridViewCellStyle12.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle12.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Player4.DefaultCellStyle = DataGridViewCellStyle12
         Me.Player4.HeaderText = "Player4"
         Me.Player4.Name = "Player4"
@@ -358,7 +358,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle13.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle13.BackColor = System.Drawing.Color.DodgerBlue
-        DataGridViewCellStyle13.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle13.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BidP4.DefaultCellStyle = DataGridViewCellStyle13
         Me.BidP4.HeaderText = ""
         Me.BidP4.Name = "BidP4"
@@ -370,7 +370,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle14.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle14.BackColor = System.Drawing.Color.DodgerBlue
-        DataGridViewCellStyle14.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle14.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.EndP4.DefaultCellStyle = DataGridViewCellStyle14
         Me.EndP4.HeaderText = ""
         Me.EndP4.Name = "EndP4"
@@ -383,7 +383,7 @@ Partial Class Form1
         Me.Player5.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
         DataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle15.BackColor = System.Drawing.Color.Orange
-        DataGridViewCellStyle15.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle15.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Player5.DefaultCellStyle = DataGridViewCellStyle15
         Me.Player5.HeaderText = "Player5"
         Me.Player5.Name = "Player5"
@@ -395,7 +395,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle16.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle16.BackColor = System.Drawing.Color.Orange
-        DataGridViewCellStyle16.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle16.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BidP5.DefaultCellStyle = DataGridViewCellStyle16
         Me.BidP5.HeaderText = ""
         Me.BidP5.Name = "BidP5"
@@ -407,7 +407,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle17.BackColor = System.Drawing.Color.Orange
-        DataGridViewCellStyle17.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle17.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.EndP5.DefaultCellStyle = DataGridViewCellStyle17
         Me.EndP5.HeaderText = ""
         Me.EndP5.Name = "EndP5"
@@ -420,7 +420,7 @@ Partial Class Form1
         Me.Player6.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
         DataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle18.BackColor = System.Drawing.Color.HotPink
-        DataGridViewCellStyle18.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle18.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Player6.DefaultCellStyle = DataGridViewCellStyle18
         Me.Player6.HeaderText = "Player6"
         Me.Player6.Name = "Player6"
@@ -432,7 +432,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle19.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle19.BackColor = System.Drawing.Color.HotPink
-        DataGridViewCellStyle19.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle19.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BidP6.DefaultCellStyle = DataGridViewCellStyle19
         Me.BidP6.HeaderText = ""
         Me.BidP6.Name = "BidP6"
@@ -444,7 +444,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle20.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle20.BackColor = System.Drawing.Color.HotPink
-        DataGridViewCellStyle20.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle20.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.EndP6.DefaultCellStyle = DataGridViewCellStyle20
         Me.EndP6.HeaderText = ""
         Me.EndP6.Name = "EndP6"
@@ -456,7 +456,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle21.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle21.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle21.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle21.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TotalBid.DefaultCellStyle = DataGridViewCellStyle21
         Me.TotalBid.HeaderText = "Z"
         Me.TotalBid.Name = "TotalBid"
@@ -468,7 +468,7 @@ Partial Class Form1
         '
         DataGridViewCellStyle22.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle22.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle22.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle22.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TE.DefaultCellStyle = DataGridViewCellStyle22
         Me.TE.HeaderText = "F"
         Me.TE.Name = "TE"
@@ -533,13 +533,13 @@ Partial Class Form1
         'Listbox1
         '
         Me.Listbox1.BackColor = System.Drawing.Color.Green
-        Me.Listbox1.Font = New System.Drawing.Font("Berlin Sans FB", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Listbox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Listbox1.ForeColor = System.Drawing.SystemColors.Info
         Me.Listbox1.FormattingEnabled = True
-        Me.Listbox1.ItemHeight = 18
+        Me.Listbox1.ItemHeight = 20
         Me.Listbox1.Location = New System.Drawing.Point(3, 15)
         Me.Listbox1.Name = "Listbox1"
-        Me.Listbox1.Size = New System.Drawing.Size(205, 688)
+        Me.Listbox1.Size = New System.Drawing.Size(205, 684)
         Me.Listbox1.TabIndex = 7
         '
         'GroupBox1
@@ -561,7 +561,7 @@ Partial Class Form1
         '
         'btn8
         '
-        Me.btn8.Font = New System.Drawing.Font("Berlin Sans FB", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn8.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn8.Location = New System.Drawing.Point(439, 28)
         Me.btn8.Name = "btn8"
         Me.btn8.Size = New System.Drawing.Size(35, 27)
@@ -571,7 +571,7 @@ Partial Class Form1
         '
         'btn7
         '
-        Me.btn7.Font = New System.Drawing.Font("Berlin Sans FB", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn7.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn7.Location = New System.Drawing.Point(398, 28)
         Me.btn7.Name = "btn7"
         Me.btn7.Size = New System.Drawing.Size(35, 27)
@@ -581,7 +581,7 @@ Partial Class Form1
         '
         'btn6
         '
-        Me.btn6.Font = New System.Drawing.Font("Berlin Sans FB", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn6.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn6.Location = New System.Drawing.Point(357, 28)
         Me.btn6.Name = "btn6"
         Me.btn6.Size = New System.Drawing.Size(35, 27)
@@ -591,7 +591,7 @@ Partial Class Form1
         '
         'btn5
         '
-        Me.btn5.Font = New System.Drawing.Font("Berlin Sans FB", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn5.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn5.Location = New System.Drawing.Point(316, 28)
         Me.btn5.Name = "btn5"
         Me.btn5.Size = New System.Drawing.Size(35, 27)
@@ -601,7 +601,7 @@ Partial Class Form1
         '
         'btn4
         '
-        Me.btn4.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn4.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn4.Location = New System.Drawing.Point(265, 23)
         Me.btn4.Name = "btn4"
         Me.btn4.Size = New System.Drawing.Size(45, 35)
@@ -611,7 +611,7 @@ Partial Class Form1
         '
         'btn3
         '
-        Me.btn3.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn3.Location = New System.Drawing.Point(214, 23)
         Me.btn3.Name = "btn3"
         Me.btn3.Size = New System.Drawing.Size(45, 35)
@@ -621,7 +621,7 @@ Partial Class Form1
         '
         'btn2
         '
-        Me.btn2.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn2.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn2.Location = New System.Drawing.Point(163, 23)
         Me.btn2.Name = "btn2"
         Me.btn2.Size = New System.Drawing.Size(45, 35)
@@ -631,7 +631,7 @@ Partial Class Form1
         '
         'btn1
         '
-        Me.btn1.Font = New System.Drawing.Font("Berlin Sans FB", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn1.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn1.Location = New System.Drawing.Point(92, 17)
         Me.btn1.Name = "btn1"
         Me.btn1.Size = New System.Drawing.Size(65, 45)
@@ -641,7 +641,7 @@ Partial Class Form1
         '
         'btn0
         '
-        Me.btn0.Font = New System.Drawing.Font("Berlin Sans FB", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn0.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn0.Location = New System.Drawing.Point(21, 17)
         Me.btn0.Name = "btn0"
         Me.btn0.Size = New System.Drawing.Size(65, 45)
@@ -651,7 +651,7 @@ Partial Class Form1
         '
         'btnEndRoundScore
         '
-        Me.btnEndRoundScore.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnEndRoundScore.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnEndRoundScore.Location = New System.Drawing.Point(276, 16)
         Me.btnEndRoundScore.Name = "btnEndRoundScore"
         Me.btnEndRoundScore.Size = New System.Drawing.Size(132, 37)
@@ -661,7 +661,7 @@ Partial Class Form1
         '
         'btnStartNextRound
         '
-        Me.btnStartNextRound.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnStartNextRound.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnStartNextRound.Location = New System.Drawing.Point(138, 16)
         Me.btnStartNextRound.Name = "btnStartNextRound"
         Me.btnStartNextRound.Size = New System.Drawing.Size(132, 37)
@@ -671,7 +671,7 @@ Partial Class Form1
         '
         'btnUpdScore
         '
-        Me.btnUpdScore.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnUpdScore.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnUpdScore.Location = New System.Drawing.Point(414, 15)
         Me.btnUpdScore.Name = "btnUpdScore"
         Me.btnUpdScore.Size = New System.Drawing.Size(132, 37)
@@ -724,10 +724,10 @@ Partial Class Form1
         'lblGameSetup
         '
         Me.lblGameSetup.AutoSize = True
-        Me.lblGameSetup.Font = New System.Drawing.Font("Berlin Sans FB", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblGameSetup.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblGameSetup.Location = New System.Drawing.Point(303, -1)
         Me.lblGameSetup.Name = "lblGameSetup"
-        Me.lblGameSetup.Size = New System.Drawing.Size(152, 30)
+        Me.lblGameSetup.Size = New System.Drawing.Size(165, 31)
         Me.lblGameSetup.TabIndex = 37
         Me.lblGameSetup.Text = "Game Setup"
         '
@@ -743,10 +743,10 @@ Partial Class Form1
         'CheckBoxDubluPunctaj
         '
         Me.CheckBoxDubluPunctaj.AutoSize = True
-        Me.CheckBoxDubluPunctaj.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.CheckBoxDubluPunctaj.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheckBoxDubluPunctaj.Location = New System.Drawing.Point(29, 14)
         Me.CheckBoxDubluPunctaj.Name = "CheckBoxDubluPunctaj"
-        Me.CheckBoxDubluPunctaj.Size = New System.Drawing.Size(232, 25)
+        Me.CheckBoxDubluPunctaj.Size = New System.Drawing.Size(243, 28)
         Me.CheckBoxDubluPunctaj.TabIndex = 47
         Me.CheckBoxDubluPunctaj.Text = "Dublu la 2/2, 3/3, 4/4, etc.."
         Me.CheckBoxDubluPunctaj.UseVisualStyleBackColor = True
@@ -755,10 +755,10 @@ Partial Class Form1
         '
         Me.CheckBoxPremiere.AutoSize = True
         Me.CheckBoxPremiere.Enabled = False
-        Me.CheckBoxPremiere.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.CheckBoxPremiere.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheckBoxPremiere.Location = New System.Drawing.Point(29, 47)
         Me.CheckBoxPremiere.Name = "CheckBoxPremiere"
-        Me.CheckBoxPremiere.Size = New System.Drawing.Size(460, 25)
+        Me.CheckBoxPremiere.Size = New System.Drawing.Size(493, 28)
         Me.CheckBoxPremiere.TabIndex = 46
         Me.CheckBoxPremiere.Text = "Cu Premiere 10 pct la nr Jucatori + 1 (work in  progress)"
         Me.CheckBoxPremiere.UseVisualStyleBackColor = True
@@ -776,10 +776,10 @@ Partial Class Form1
         'Radio6Players
         '
         Me.Radio6Players.AutoSize = True
-        Me.Radio6Players.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Radio6Players.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Radio6Players.Location = New System.Drawing.Point(355, 12)
         Me.Radio6Players.Name = "Radio6Players"
-        Me.Radio6Players.Size = New System.Drawing.Size(110, 27)
+        Me.Radio6Players.Size = New System.Drawing.Size(124, 29)
         Me.Radio6Players.TabIndex = 52
         Me.Radio6Players.Text = "6 Jucatori"
         Me.Radio6Players.UseVisualStyleBackColor = True
@@ -787,10 +787,10 @@ Partial Class Form1
         'Radio5Players
         '
         Me.Radio5Players.AutoSize = True
-        Me.Radio5Players.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Radio5Players.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Radio5Players.Location = New System.Drawing.Point(206, 12)
         Me.Radio5Players.Name = "Radio5Players"
-        Me.Radio5Players.Size = New System.Drawing.Size(109, 27)
+        Me.Radio5Players.Size = New System.Drawing.Size(124, 29)
         Me.Radio5Players.TabIndex = 51
         Me.Radio5Players.Text = "5 Jucatori"
         Me.Radio5Players.UseVisualStyleBackColor = True
@@ -798,10 +798,10 @@ Partial Class Form1
         'Radio4Players
         '
         Me.Radio4Players.AutoSize = True
-        Me.Radio4Players.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Radio4Players.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Radio4Players.Location = New System.Drawing.Point(29, 12)
         Me.Radio4Players.Name = "Radio4Players"
-        Me.Radio4Players.Size = New System.Drawing.Size(110, 27)
+        Me.Radio4Players.Size = New System.Drawing.Size(124, 29)
         Me.Radio4Players.TabIndex = 50
         Me.Radio4Players.Text = "4 Jucatori"
         Me.Radio4Players.UseVisualStyleBackColor = True
@@ -818,10 +818,10 @@ Partial Class Form1
         'Radio888x888
         '
         Me.Radio888x888.AutoSize = True
-        Me.Radio888x888.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Radio888x888.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Radio888x888.Location = New System.Drawing.Point(206, 10)
         Me.Radio888x888.Name = "Radio888x888"
-        Me.Radio888x888.Size = New System.Drawing.Size(136, 27)
+        Me.Radio888x888.Size = New System.Drawing.Size(174, 29)
         Me.Radio888x888.TabIndex = 50
         Me.Radio888x888.Text = "888...111...888"
         Me.Radio888x888.UseVisualStyleBackColor = True
@@ -829,10 +829,10 @@ Partial Class Form1
         'Radio111x111
         '
         Me.Radio111x111.AutoSize = True
-        Me.Radio111x111.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Radio111x111.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Radio111x111.Location = New System.Drawing.Point(29, 10)
         Me.Radio111x111.Name = "Radio111x111"
-        Me.Radio111x111.Size = New System.Drawing.Size(124, 27)
+        Me.Radio111x111.Size = New System.Drawing.Size(174, 29)
         Me.Radio111x111.TabIndex = 49
         Me.Radio111x111.Text = "111...888...111"
         Me.Radio111x111.UseVisualStyleBackColor = True
@@ -849,10 +849,10 @@ Partial Class Form1
         'radioNormal
         '
         Me.radioNormal.AutoSize = True
-        Me.radioNormal.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.radioNormal.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.radioNormal.Location = New System.Drawing.Point(29, 11)
         Me.radioNormal.Name = "radioNormal"
-        Me.radioNormal.Size = New System.Drawing.Size(167, 27)
+        Me.radioNormal.Size = New System.Drawing.Size(176, 29)
         Me.radioNormal.TabIndex = 45
         Me.radioNormal.Text = "Punctaj Normal"
         Me.ToolTip1.SetToolTip(Me.radioNormal, "Exemple Punctaj Normal:" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "zis si facut 1 = 5+1 (6p)" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "zis si facut 2 = 5+2 (7p)" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) &
@@ -863,10 +863,10 @@ Partial Class Form1
         'RadioProgresiv
         '
         Me.RadioProgresiv.AutoSize = True
-        Me.RadioProgresiv.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.RadioProgresiv.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioProgresiv.Location = New System.Drawing.Point(206, 11)
         Me.RadioProgresiv.Name = "RadioProgresiv"
-        Me.RadioProgresiv.Size = New System.Drawing.Size(180, 27)
+        Me.RadioProgresiv.Size = New System.Drawing.Size(199, 29)
         Me.RadioProgresiv.TabIndex = 48
         Me.RadioProgresiv.Text = "Punctaj Progresiv"
         Me.ToolTip1.SetToolTip(Me.RadioProgresiv, "Exemple Punctaj Progresiv:" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "zis si facut 1 = 5+1 (6p)" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "zis si facut 2 = 5+1+2 (" &
@@ -876,7 +876,7 @@ Partial Class Form1
         '
         'btnOk
         '
-        Me.btnOk.Font = New System.Drawing.Font("Berlin Sans FB", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnOk.Font = New System.Drawing.Font("Microsoft Sans Serif", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnOk.Location = New System.Drawing.Point(382, 399)
         Me.btnOk.Name = "btnOk"
         Me.btnOk.Size = New System.Drawing.Size(117, 45)
@@ -965,7 +965,7 @@ Partial Class Form1
         '
         'btnStergeRunda
         '
-        Me.btnStergeRunda.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnStergeRunda.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnStergeRunda.Location = New System.Drawing.Point(552, 15)
         Me.btnStergeRunda.Name = "btnStergeRunda"
         Me.btnStergeRunda.Size = New System.Drawing.Size(126, 37)
@@ -975,7 +975,7 @@ Partial Class Form1
         '
         'btnNewGame
         '
-        Me.btnNewGame.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnNewGame.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnNewGame.Location = New System.Drawing.Point(3, 15)
         Me.btnNewGame.Name = "btnNewGame"
         Me.btnNewGame.Size = New System.Drawing.Size(129, 37)
@@ -1096,7 +1096,7 @@ Partial Class Form1
         '
         'btnNameOk
         '
-        Me.btnNameOk.Font = New System.Drawing.Font("Berlin Sans FB", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnNameOk.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnNameOk.Location = New System.Drawing.Point(295, 83)
         Me.btnNameOk.Name = "btnNameOk"
         Me.btnNameOk.Size = New System.Drawing.Size(47, 27)
@@ -1107,16 +1107,16 @@ Partial Class Form1
         'lblEnterNames
         '
         Me.lblEnterNames.AutoSize = True
-        Me.lblEnterNames.Font = New System.Drawing.Font("Berlin Sans FB", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblEnterNames.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblEnterNames.Location = New System.Drawing.Point(126, 131)
         Me.lblEnterNames.Name = "lblEnterNames"
-        Me.lblEnterNames.Size = New System.Drawing.Size(164, 21)
+        Me.lblEnterNames.Size = New System.Drawing.Size(176, 24)
         Me.lblEnterNames.TabIndex = 7
         Me.lblEnterNames.Text = "Numele si Culoarea"
         '
         'txtNames
         '
-        Me.txtNames.Font = New System.Drawing.Font("Berlin Sans FB", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtNames.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtNames.Location = New System.Drawing.Point(138, 83)
         Me.txtNames.MaxLength = 10
         Me.txtNames.Multiline = True
@@ -1291,10 +1291,10 @@ Partial Class Form1
         '
         Me.lblCastigator.AutoSize = True
         Me.lblCastigator.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.lblCastigator.Font = New System.Drawing.Font("Berlin Sans FB", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblCastigator.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblCastigator.Location = New System.Drawing.Point(0, 0)
         Me.lblCastigator.Name = "lblCastigator"
-        Me.lblCastigator.Size = New System.Drawing.Size(445, 44)
+        Me.lblCastigator.Size = New System.Drawing.Size(481, 46)
         Me.lblCastigator.TabIndex = 60
         Me.lblCastigator.Text = "Castigatorul este PlayerX!"
         '

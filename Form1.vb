@@ -3184,23 +3184,23 @@
         End With
 
         Dim res As MsgBoxResult
-        res = MsgBox("Joc salvat in Folderul D:\Whist. Vrei sa vezi?", MsgBoxStyle.YesNo)
-        My.Computer.FileSystem.CreateDirectory("D:\Whist")
+        res = MsgBox("Joc salvat in Folderul C:\Whist. Vrei sa vezi?", MsgBoxStyle.YesNo)
+        My.Computer.FileSystem.CreateDirectory("C:\Whist")
 
         If TotalPlayers = 4 Then
-            ExcelSheet.SaveAs("D:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & "-" & fileDateTime & ".xlsx")
+            ExcelSheet.SaveAs("C:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & "-" & fileDateTime & ".xlsx")
             If (res = MsgBoxResult.Yes) Then
-                Process.Start("D:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & "-" & fileDateTime & ".xlsx")
+                Process.Start("C:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & "-" & fileDateTime & ".xlsx")
             End If
         ElseIf TotalPlayers = 5 Then
-            ExcelSheet.SaveAs("D:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & Player5Name & "-" & fileDateTime & ".xlsx")
+            ExcelSheet.SaveAs("C:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & Player5Name & "-" & fileDateTime & ".xlsx")
             If (res = MsgBoxResult.Yes) Then
-                Process.Start("D:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & Player5Name & "-" & fileDateTime & ".xlsx")
+                Process.Start("C:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & Player5Name & "-" & fileDateTime & ".xlsx")
             End If
         ElseIf TotalPlayers = 6 Then
-            ExcelSheet.SaveAs("D:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & Player5Name & Player6Name & "-" & fileDateTime & ".xlsx")
+            ExcelSheet.SaveAs("C:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & Player5Name & Player6Name & "-" & fileDateTime & ".xlsx")
             If (res = MsgBoxResult.Yes) Then
-                Process.Start("D:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & Player5Name & Player6Name & "-" & fileDateTime & ".xlsx")
+                Process.Start("C:\Whist\Whist-" & Player1Name & "-" & Player2Name & "-" & Player3Name & "-" & Player4Name & Player5Name & Player6Name & "-" & fileDateTime & ".xlsx")
             End If
         End If
 
